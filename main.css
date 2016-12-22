@@ -11,7 +11,7 @@ article {
 	max-width: 38em;
 }
 
-.question {
+.question, .hightlight {
 	font-weight: 400;
 }
 
